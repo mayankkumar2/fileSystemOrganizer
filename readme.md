@@ -6,7 +6,7 @@ Feel free to make changes according to your needs.
 - [X] Organizing files to separate folders.
 - [X] Organizing Documents, Images, Videos, Archives, Executables.
 - [ ] GUI for the application
-- [ ] An intefration for various web browsers.
+- [ ] An integration for various web browsers.
 
 #### Instructions to run
 - Console Mode

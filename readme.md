@@ -1,14 +1,14 @@
-##File Organizer
+## File Organizer
 This project is a very simple implementation of file organizer. <br>
 Feel free to make changes according to your needs.
 
-####Features
+#### Features
 - [X] Organizing files to separate folders.
 - [X] Organizing Documents, Images, Videos, Archives, Executables.
 - [ ] GUI for the application
 - [ ] An intefration for various web browsers.
 
-####Instructions to run
+#### Instructions to run
 - Console Mode
 ```batch
     Organizer.cmd
@@ -18,7 +18,7 @@ Feel free to make changes according to your needs.
 Place the file in the folder to manage
 Double click on Organizer.cmd
 ```
-####Instructions to make changes
+#### Instructions to make changes
 - The intructions to personaize the project has been added to the files.
 
-#####All suggestions and contributions are welcomed.
+##### All suggestions and contributions are welcomed.
